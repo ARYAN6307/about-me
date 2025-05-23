@@ -1,4 +1,4 @@
-"use client";
+"use client"; // This is a Client Component
 
 import React, { useState } from "react";
 import {
